@@ -1,0 +1,8 @@
+[package]
+name = "ixa_indexing"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ixa = { path = "../ixa" }
+csv = "1.3.1"
